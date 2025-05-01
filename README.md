@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Nizar Tarik!
 
-🎯 **Beginner Full Stack Web Developer**  
+🎯 **A Full Stack Web Developer**  
 🌐 [My Website](https://NizarTarik.com)
 
 ---
