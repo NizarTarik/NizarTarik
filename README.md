@@ -10,7 +10,7 @@
     - <b>A website where users can buy and sell their houses and properties. you can browse and filter property listings, view detailed information, and contact sellers through their displayed contact details. By creating an account, users can like, bookmark, and also become sellers by posting their own properties.</b>
   - [To-Do list](https://github.com/NizarTarik/To-Do-List)
     -  <b>A simple to-do list website where you can add, edit, and delete tasks. It shows how many days are left to complete each task and informs you if the due date has passed.</b>
-  - [Flappy Bird Game](https://github.com/NizarTarik/To-Do-List)
+  - [Flappy Bird Game](https://github.com/NizarTarik/Flappy-Bird)
     - <b>A Flappy Bird game where you control a bird by clicking to make it jump. Pipes are randomly generated and move across the screen. The game detects collisions between the bird and the pipes, and keeps track of your score as you play. </b>
   - [Tic-tac-toe-Game](https://github.com/NizarTarik/tic-tac-toe-Game)
     - <b>A Tic-Tac-Toe game played on a 3x3 grid. The first who to get three in a row wins the game!</b>
