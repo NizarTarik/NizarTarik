@@ -5,7 +5,7 @@
 
 - <b>Moroccan Restaurant management</b>
   - [Moroccan Restaurant](https://github.com/NizarTarik/Marokkanisches-Restaurant)
-    - <b>A website showcasing Moroccan cuisine with an admin dashboard for managing dishes, user profiles, and reviews.</b>
+    - <b>A website showcasing Moroccan cuisine, with an admin dashboard for managing dishes, discounts, user profiles, and reviews.</b>
   - [My Property](https://github.com/NizarTarik/MyProperty)
     - <b>A website where users can buy and sell their houses and properties. you can browse and filter property listings, view detailed information, and contact sellers through their displayed contact details. By creating an account, users can like, bookmark, and also become sellers by posting their own properties.</b>
   - [To-Do list](https://github.com/NizarTarik/To-Do-List)
