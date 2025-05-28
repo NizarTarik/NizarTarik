@@ -4,6 +4,10 @@ const documentPdf = document.getElementById('documentPdf');
 // nav
 const homeBtn = document.getElementById('showIndex');
 const aboutBtn = document.getElementById('showAbout');
+const eng = document.getElementById('eng');
+const de = document.getElementById('de');
+const fr = document.getElementById('fr');
+const ar = document.getElementById('ar');
 
 
 // Sidebar
@@ -50,6 +54,10 @@ const updateLanguageText = (data) => {
     // nav
     homeBtn.innerHTML = data.nav.home;
     aboutBtn.innerHTML = data.nav.about;
+    fr.innerHTML = data.nav.fr;
+    ar.innerHTML = data.nav.ar;
+    eng.innerHTML = data.nav.eng;
+    de.innerHTML = data.nav.de;
 
     // sidebar
     itKenntnisse.innerHTML = data.sideBar.itKenntnisse;
@@ -109,6 +117,37 @@ document.querySelector('select').addEventListener('change', (event) => {
 
 // Default to DE
 document.addEventListener('DOMContentLoaded', () => {
-    updateLanguageText(translator.DE);
-    document.querySelector('select').value = 'DE';
+    const userLang = navigator.language || navigator.userLanguage; // e.g., 'de-DE', 'fr-MA', etc.
+
+    const select = document.querySelector('select');
+
+    // Check if region is Morocco (e.g., 'fr-MA', 'ar-MA', etc.)
+    if (userLang.includes('-MA')) {
+        // Remove Deutsch option
+        const deOption = select.querySelector('option[value="DE"]');
+        if (deOption) {
+            deOption.remove();
+        }
+
+        // Default to English
+        updateLanguageText(translator.ENG);
+        select.value = 'ENG';
+    } else if (userLang.startsWith('de')) {
+        updateLanguageText(translator.DE);
+        select.value = 'DE';
+    } else {
+        updateLanguageText(translator.ENG);
+        select.value = 'ENG';
+    }
 });
+document.addEventListener('DOMContentLoaded', () => {
+    const userLang = navigator.language || navigator.userLanguage; // e.g., 'de-DE', 'fr-MA', etc.
+    const pdfLink = document.getElementById('documentPdf');
+
+    if (userLang.startsWith('de')) {
+        pdfLink.style.display = 'inline-block'; // or '' to use default display
+    } else {
+        pdfLink.style.display = 'none';
+    }
+});
+

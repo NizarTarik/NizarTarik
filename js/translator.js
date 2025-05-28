@@ -4,6 +4,10 @@ export const translator = {
         nav: {
             home: 'Home',
             about: 'About me',
+            eng: 'English',
+            de: 'German',
+            fr: 'French',
+            ar: 'Arabe',
         },
         sideBar: {
             sideBarText: 'A Passionate Full-Stack Web Developer on the Rise',
@@ -50,7 +54,7 @@ export const translator = {
 
         },
         about: {
-            b2cake: 'B2 course completed – thanks to everyone!',
+            b2cake: '',
             diplomeparty: 'Done together!',
             stage: 'My internship at Proxisoft GmbH',
         }
@@ -61,6 +65,10 @@ export const translator = {
         nav: {
             home: 'Startseite',
             about: 'Über mich',
+            eng: 'Englisch',
+            de: 'Deutsch',
+            fr: 'Französisch',
+            ar: 'Arabisch',
         },
         sideBar: {
             sideBarText: 'Ein leidenschaftlicher Full-Stack Webentwickler auf dem Vormarsch',
@@ -116,6 +124,10 @@ export const translator = {
         nav: {
             home: 'Accueil',
             about: 'À propos',
+            eng: 'Englais',
+            de: 'Allemand',
+            fr: 'Français',
+            ar: 'Arabic',
         },
         sideBar: {
             sideBarText: 'Un développeur Full-Stack passionné en pleine ascension',
@@ -162,7 +174,7 @@ export const translator = {
 
         },
         about: {
-            b2cake: 'Cours B2 terminé – merci à tous !',
+            b2cake: '',
             diplomeparty: 'Fait ensemble !',
             stage: 'Mon stage chez Proxisoft',
         }
@@ -176,6 +188,10 @@ export const translator = {
         nav: {
             home: 'الرئيسية',
             about: 'حول',
+            eng: 'الإنجليزية',
+            de: 'الألمانية',
+            fr: 'الفرنسية',
+            ar: 'العربية',
         },
         sideBar: {
             sideBarText: 'متحمس في صعود Full-Stack مطور ويب ',
@@ -224,7 +240,7 @@ export const translator = {
 
         },
         about: {
-            b2cake: 'تم الانتهاء من دورة B2 – شكرًا للجميع!',
+            b2cake: '',
             diplomeparty: 'تم ذلك معًا!',
             stage: 'Proxisoft فترة تدريبي في شركة ',
         }

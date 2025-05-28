@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Nizar Tarik!
 
 🎯 **A Full Stack Web Developer**  
-🌐 [My Website](https://nizartarik.github.io/Portfolio/)
+🌐 [My Portfolio](https://nizartarik.github.io/Portfolio)
 
 ---
 
@@ -25,7 +25,3 @@ A classic 3x3 Tic-Tac-Toe game. The first to get three in a row wins!
 A simple Rock-Paper-Scissors game where you play against the computer. Choose your move and see who wins!
 
 ---
-
-## 🤳 My Website
-
-🌍 **[NizarTarik.com](https://NizarTarik.com)**

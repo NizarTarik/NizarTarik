@@ -16,9 +16,10 @@
 
 <body>
     <div class="wrapper">
-        <div style="display:flex;align-items:center;position:fixed;right:0%;top: 89vh;z-index:2000;">
+        <div style="display:flex;align-items:center;position:fixed;right:1%;top: 89vh;z-index:2000;">
             <a id="documentPdf" href="Unterlagen.pdf" target="_blank" class="btn btn-md btn-success mt-3 mr-2"
                 style="border-radius:25px"></a>
+
             <a href="https://github.com/NizarTarik" target="_blank" class="btn btn-md btn-dark mt-3 mr-2"
                 style="border-radius:25px"><i class="fab fa-github"></i></a>
         </div>
@@ -105,10 +106,10 @@
                         </button>
                         <!-- Styled Select -->
                         <select class="btn btn-lg btn-light m-1 ">
-                            <option value="DE">Deutsch</option>
-                            <option value="ENG">English</option>
-                            <option value="FR">Français</option>
-                            <option value="AR">العربية</option>
+                            <option value="DE" id="de"></option>
+                            <option value="ENG" id="eng"></option>
+                            <option value="FR" id="fr"></option>
+                            <option value="AR" id="ar"></option>
                         </select>
                     </div>
                 </nav>
@@ -411,6 +412,7 @@
             <!-- Footer End -->
         </div>
     </div>
+
     <script src="js/toogleSections.js"></script>
     <script type="module" src="js/main.js"></script>
     <!-- JavaScript Libraries -->
