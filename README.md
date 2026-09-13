@@ -1,27 +1,98 @@
-# 👋 Hi, I'm Nizar Tarik!
+# Hi, I'm Nizar Tarik 👋
 
-🎯 **A Full Stack Web Developer**  
-🌐 [My Portfolio](https://nizartarik.github.io/Portfolio)
+**Full-Stack Developer | Angular · Spring Boot · AI**
+
+I started with a **2-year Diploma in Full-Stack Web Development**, then continued with a **Bachelor's in Computer Systems Engineering (2025–2026)**.
+
+I build modern web applications, business platforms, and AI-powered solutions with a focus on automation and practical user experiences.
+
+🌐 **Portfolio:** [nizartarik.github.io/Portfolio](https://nizartarik.github.io/Portfolio)
+
+---
+
+## Selected Projects
+
+### 🍲 [Moroccan Restaurant](https://github.com/NizarTarik/Marokkanisches-Restaurant)
+
+A Moroccan cuisine platform with an administration dashboard for managing users, profiles, dishes, discounts, and reviews.
+
+**PHP · Symfony · MySQL · JavaScript · Bootstrap**
 
 ---
 
-## 👨‍💻 Development Projects
+### 🛡️ [Insurance CRM](https://github.com/NizarTarik/InsuranceCRM)
 
-### 🍲 [Moroccan Restaurant Management](https://github.com/NizarTarik/Marokkanisches-Restaurant)
-A website showcasing Moroccan cuisine, with an admin dashboard for managing dishes, discounts, user profiles, and reviews.
+A professional insurance management platform designed to centralize customers, policies, claims, and business workflows in one interface.
 
-### 🏠 [My Property](https://github.com/NizarTarik/MyProperty)
-A platform where users can buy and sell houses and properties. Users can browse and filter property listings, view detailed information, and contact sellers. By creating an account, they can bookmark and publish their own properties.
-
-### 📝 [To-Do List](https://github.com/NizarTarik/To-Do-List)
-A to-do list to add, edit, and delete tasks. It shows the remaining days for each task and alerts you if the due date has passed.
-### 🐦 [Flappy Bird Game](https://github.com/NizarTarik/Flappy-Bird)
-A browser-based game where you click to make a bird jump. Pipes are randomly generated and move across the screen. The game detects collisions and tracks your score.
-
-### ❌⭕ [Tic-Tac-Toe Game](https://github.com/NizarTarik/tic-tac-toe-Game)
-A classic 3x3 Tic-Tac-Toe game. The first to get three in a row wins!
-
-### ✊🖐✌ [Rock-Paper-Scissors](https://github.com/NizarTarik/Rock-Paper-Scissors)
-A simple Rock-Paper-Scissors game where you play against the computer. Choose your move and see who wins!
+**Angular · Spring Boot · PostgreSQL · REST API · AI**
 
 ---
+
+### 📊 [Trading Journal](https://github.com/NizarTarik/TradingJournal)
+
+A trading journal for recording, reviewing, and analyzing trades with performance metrics, statistics, and visual insights.
+
+**Angular · Spring Boot · PostgreSQL · TypeScript ·**
+
+---
+
+### 🤖 [Insurance AI Agent](https://github.com/NizarTarik/Insurance-AI-Agent)
+
+An AI-powered insurance agent that detects customer needs, identifies the appropriate insurance service, and automatically notifies the support team for follow-up through email and WhatsApp.
+
+**Angular · Spring Boot · PostgreSQL · Gemini API**
+
+---
+
+## Technical Stack
+
+### Frontend
+
+`Angular` `TypeScript` `HTML` `CSS` `JavaScript` `Bootstrap`
+
+### Backend
+
+`Java` `Spring Boot` `PHP` `Symfony` `REST API`
+
+### Databases
+
+`PostgreSQL` `MySQL`
+
+### AI & Automation
+
+`Gemini API` `AI Agents` `Automation`
+
+### DevOps & Tools
+
+`Docker` `Git` `Elasticsearch` `Kibana`
+
+---
+
+## Earlier Projects
+
+These are some of my first development projects.  
+I keep them here to document my progression from learning the fundamentals to building larger full-stack systems.
+
+- 🎮 [Flappy Bird](https://github.com/NizarTarik/Flappy-Bird)
+- ❌⭕ [Tic-Tac-Toe](https://github.com/NizarTarik/tic-tac-toe-Game)
+- ✊ [Rock-Paper-Scissors](https://github.com/NizarTarik/Rock-Paper-Scissors)
+- 🏠 [My Property](https://github.com/NizarTarik/MyProperty)
+- 📝 [To-Do List](https://github.com/NizarTarik/To-Do-List)
+
+---
+
+## Education
+
+**Bachelor's — Computer Systems Engineering**  
+2025 – 2026
+
+**Diploma — Full-Stack Web Development**  
+2-year program
+
+---
+
+## Contact
+
+🌐 **[Portfolio](https://nizartarik.github.io/Portfolio)**
+
+💻 **[GitHub](https://github.com/NizarTarik)**
