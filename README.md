@@ -10,16 +10,6 @@ I build modern web applications, business platforms, and AI-powered solutions wi
 
 ---
 
-## Selected Projects
-
-### 🍲 [Moroccan Restaurant](https://github.com/NizarTarik/Marokkanisches-Restaurant)
-
-A Moroccan cuisine platform with an administration dashboard for managing users, profiles, dishes, discounts, and reviews.
-
-**PHP · Symfony · MySQL · JavaScript · Bootstrap**
-
----
-
 ### 🛡️ [Insurance CRM](https://github.com/NizarTarik/InsuranceCRM)
 
 A professional insurance management platform designed to centralize customers, policies, claims, and business workflows in one interface.
@@ -43,8 +33,18 @@ An AI-powered insurance agent that detects customer needs, identifies the approp
 **Angular · Spring Boot · PostgreSQL · Gemini API**
 
 ---
+---
 
+## Selected Projects
+
+### 🍲 [Moroccan Restaurant](https://github.com/NizarTarik/Marokkanisches-Restaurant)
+
+A Moroccan cuisine platform with an administration dashboard for managing users, profiles, dishes, discounts, and reviews.
+
+**PHP · Symfony · MySQL · JavaScript · Bootstrap**
 ## Technical Stack
+
+---
 
 ### Frontend
 
