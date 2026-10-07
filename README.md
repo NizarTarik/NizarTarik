@@ -6,7 +6,7 @@ I started with a **2-year Diploma in Full-Stack Web Development**, then continue
 
 I build modern web applications, business platforms, and AI-powered solutions with a focus on automation and practical user experiences.
 
-🌐 **Portfolio:** [nizartarik.github.io/Portfolio](https://nizartarik.github.io/Portfolio)
+🌐 **Portfolio:** [nizartarik.github.io/Portfolio](https://nizartarik.github.io/MyPortfolio/)
 
 ---
 
