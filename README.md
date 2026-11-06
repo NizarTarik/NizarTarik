@@ -10,7 +10,7 @@ I build modern web applications, business platforms, and AI-powered solutions wi
 
 ---
 
-### 🛡️ [Insurance CRM](https://github.com/NizarTarik/InsuranceCRM)
+### 🛡️ [Insurance CRM](https://github.com/NizarTarik/CRM-Application)
 A professional insurance management platform designed to centralize customers, policies, claims, and business workflows in one interface.
 
 **Angular · Spring Boot · PostgreSQL · REST API · AI**
